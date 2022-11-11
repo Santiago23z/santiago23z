@@ -1,21 +1,12 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm YouDevs</h1>
-    <h3 align="center">A passionate web fullstack developer from México. I like teaching what I learn in my Social
-        Media: YouTube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channel: NKL
-        YouDevs.</h3>
+    <h1 align="center">Hi 👋, I'm Santiago</h1>
+    <h3 align="center">A passionate web fullstack developer from Colombia. I'm 18 years old, I'm a lover of technology, during this year i started studying to be sofware developer in Holberton School, also I acquired more knowledge in platzi as front-end development, during the holberton stage i learned many things, like soft skills, like lose shyness when speaking in public, improvement in english, etc. as development things learned Python, C, JavaScript from front-end and back-end with node.js, Databases like Mysql and Mongodb. I am a person who learns very quickly what he is passionate about, have very good communication skills and interpersonal relationships.</h3>
 </div>
 
 
 <div id="badges" align="center">
-    <a href="http://twitch.com/youdevs" target="_blank">
-        <img src="https://img.shields.io/twitch/status/youdevs?color=purple&logo=twitch&style=for-the-badge"
-            alt="Twitch Badge" />
-    </a>
-    <a href="https://www.youtube.com/youdevs" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UC4hHrYhWMy-iN29_3bJ7zfA?label=suscriptores&logo=youtube&style=for-the-badge"
-            alt="Youtube Badge" />
-    </a>
+
     <a href="https://twitter.com/CarlosYouDevs" target="_blank">
         <img src="https://img.shields.io/twitter/follow/CarlosYouDevs?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge"
             alt="Twitter Badge" />
