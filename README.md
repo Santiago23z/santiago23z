@@ -5,27 +5,17 @@
 </div>
 
 
-<div id="badges" align="center">
-
-    <a href="https://twitter.com/CarlosYouDevs" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/CarlosYouDevs?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge"
-            alt="Twitter Badge" />
-    </a>
-</div>
-
 ---
 
 ### 👨‍💻 About Me :
 
-- 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs)
 
-- 💬 Ask me about **PHP, Laravel, Python, Javascript**
+- 💬 Ask me about **Python, Javascript, C**
 
-- 📫 How to reach me **carlos.develops@gmail.com**
+- 📫 How to reach me **santizapataalvares@gmail.com**
 
-- 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
+- 🌱 I’m currently learning **React.js, Angular, Flask**
 
-- 🌐 Website [youdevs.com](youdevs.com)
 
 
 <div align="left">
